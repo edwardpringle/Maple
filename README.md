@@ -12,3 +12,8 @@ Concepts
   This started as a vba project in vba access in sometime in May 2015
 2) We are now moving to a small clinic with a few other doctors, and then maybe some staff
 Ed Pringle
+
+Tuesday 7th Juy 2020
+Created repository structure.
+Repository name- Maple
+Folders include samaras- the fruit of the maple tree as a location to store private files
